@@ -23,6 +23,7 @@ The base data is grouped by the following values to build mean value and the sta
 ###Measurements of the Tidy Dataset
 
 1."activitylabel"
+
 2."subject"
 3."tBodyAcc-mean()-X"
 4."tBodyAcc-mean()-Y"
