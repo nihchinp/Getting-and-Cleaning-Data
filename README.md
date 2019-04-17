@@ -15,7 +15,9 @@ The script executes the following steps:
 4.	Assign cleaned feature strings as column names for the feature measurements.
 5.	Merge test and training subsets into one final cleaned data set.
 6.	Create another derived data set with average values of each measurement variable for each activity and each subject.
+
 ###Other requirements
+
 The script uses the following R packages which needs to be available/installed:
 1.	data.table
 2.	dplyr
