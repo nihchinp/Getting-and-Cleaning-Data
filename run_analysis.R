@@ -13,7 +13,7 @@ path_rf <- file.path("./data" , "UCI HAR Dataset")
 files<-list.files(path_rf, recursive=TRUE)
 files
 
-###Step 2. Read data and variables from the files
+###Step 2. Read Data and Variables from the Files
 
 #2a. Read the required files for this project
 dataActivityTest  <- read.table(file.path(path_rf, "test" , "Y_test.txt" ),header = FALSE)
